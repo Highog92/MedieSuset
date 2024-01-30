@@ -1,0 +1,43 @@
+.footerStyle {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #474747;
+    color: #524641;
+    bottom: 0;
+    align-items: center;
+    border-top: #D97852 solid 2px;
+    ;
+
+    div {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+        img {
+            width: 100%;
+        }
+
+
+        input {
+            width: 100%;
+            height: 50px;
+            background-color: #CCCCCC;
+        }
+    }
+
+    h2 {
+        color: #D97852;
+    }
+
+    svg {
+        width: 40px;
+        color: #CCCCCC;
+        margin: 10px;
+        align-items: top;
+    }
+
+
+}

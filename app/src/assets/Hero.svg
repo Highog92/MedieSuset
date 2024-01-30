@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.334" height="81" viewBox="0 0 399.334 81">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Logo_Mask" data-name="Logo Mask" d="M-113.853,0H284.481V44.428H-113.853Z" transform="translate(318 32)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(1 1)">
+    <text id="MedieSuset" transform="translate(0 61)" stroke="#000" stroke-width="1" font-size="66" font-family="RussoOne-Regular, Russo One"><tspan x="0" y="0">MedieSuset</tspan></text>
+    <g id="Logo_Mask_Group" data-name="Logo Mask Group" transform="translate(-204.147 -32)" clip-path="url(#clip-path)">
+      <text id="MedieSuset-2" data-name="MedieSuset" transform="translate(204 93)" fill="#ffb203" stroke="#000" stroke-linejoin="bevel" stroke-width="1" font-size="66" font-family="RussoOne-Regular, Russo One"><tspan x="0" y="0">MedieSuset</tspan></text>
+    </g>
+  </g>
+</svg>
